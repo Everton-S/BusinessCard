@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1069989604493",
+    "project_id": "businesscard-ff781",
+    "storage_bucket": "businesscard-ff781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069989604493:android:f5abfadbf7f4dfb55486c4",
+        "android_client_info": {
+          "package_name": "com.evertonrss.businesscard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069989604493-s823cvdhcinqgjhlonh2imrr2vh5ub08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzVLP44MYEYraW1SA2Uxn6aEssWddb7SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069989604493-s823cvdhcinqgjhlonh2imrr2vh5ub08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
